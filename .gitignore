@@ -1,0 +1,9 @@
+# Ignore venv and generated files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/processed/
+outputs/
+*.pyc
+
